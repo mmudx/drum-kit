@@ -6,4 +6,18 @@
 ._.DS_Store
 ._images
 ._sounds
+images/._crash.png
+images/._kick.png
+images/._snare.png
+images/._tom1.png
+images/._tom2.png
+images/._tom3.png
+images/._tom4.png
+sounds/._crash.mp3
+sounds/._kick-bass.mp3
+sounds/._snare.mp3
+sounds/._tom-1.mp3
+sounds/._tom-2.mp3
+sounds/._tom-3.mp3
+sounds/._tom-4.mp3
 
